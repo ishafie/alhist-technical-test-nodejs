@@ -2,7 +2,7 @@
 ### Air Liquide ALHIST technical test for backend dev positions
 A réaliser en nodejs.
 
-Créez une branche nom-prenom et pushez votre code dessus.
+Créez un fork du projet et pushez votre code dessus puis envoyez moi le lien.
 
 
 J'ai une table "steps" dans ma base de donnée qui représente des étapes contenant une action, considérez que votre base de données vous retourne par exemple:
